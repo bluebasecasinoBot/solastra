@@ -37,7 +37,7 @@ __SYD.about_page = () =>{
                     __c(
                         'div',
                         {
-                            style:'height:unset;max-height:400px;min-height:fit-content;min-width:300px;text-align:center;animation-duration:1s;row-gap:30px;text-align:center;max-width:400px;width:100%;' + __sC['page3FloatText']({method:'add',style:{justifyContent:'center',padding:'unset',opacity:__p(['about_page','animate'],false) ? '1' : '1'}}),
+                            style:'height:unset;max-height:400px;min-height:fit-content;min-width:300px;text-align:center;animation-duration:1s;row-gap:30px;text-align:center;max-width:600px;width:100%;' + __sC['page3FloatText']({method:'add',style:{justifyContent:'center',padding:'unset',opacity:__p(['about_page','animate'],false) ? '1' : '1'}}),
                             class:`about_page_child2 ${__p(['about_page','animate'],false) ? 'right_incoming_css_animation_custom_slider' : ''}`
                         },
                         [
@@ -56,11 +56,11 @@ __SYD.about_page = () =>{
                             __c(
                                 'p',
                                 {
-                                    style:`font-size:18px;padding:5px;width:100%;font-weight:900;line-height:25px;text-align:center;color:#b0b0b0;`,//${__p(['subContainer','scaled'],false) ? "left" : "center"}
+                                    style:`font-size:16px;padding:5px;width:100%;font-weight:900;line-height:25px;text-align:center;color:#b0b0b0;`,//${__p(['subContainer','scaled'],false) ? "left" : "center"}
                                     class:`text`
                                 },
                                 [
-                                    `Built on the Solana chain, solastra AI shatters the barriers of traditional development by offering a decentralized, accessible, and community-driven solution. With its native token, SOLASTRA, this platform empowers coders, dreamers, and innovators to design tailored AI solutions quickly, securely, and without the need for extensive coding or expensive hardware.`,
+                                    `Solastra AI Utility is a powerful platform that allows you to create, deploy, and manage AI agents seamlessly on the Solana blockchain. Designed for simplicity and speed, Solastra bridges the gap between cutting-edge AI and decentralized technology, enabling users to automate tasks, interact with smart contracts, and bring intelligent agents to life with just a few clicks. Whether you’re a developer, entrepreneur, or crypto enthusiast, Solastra gives you the tools to leverage AI in a decentralized ecosystem effortlessly.`,
                                 ]
                             ),
 

@@ -27,7 +27,7 @@ __SYD.page1 = () =>{
                         },
                         [
                             // __p(['page1' , 'write'] , "") , __c("small",{style:"margin-left:15px;display:inline;",class:"autoType"},[]),
-                            "In a world where AI has become essential, Solastra AI emerges as a revolutionary platform that transforms the way we create artificial intelligence."
+                            "Create, deploy, and manage AI agents effortlessly on the Solana blockchain with Solastra — your gateway to intelligent automation."
                         ]
                     )
                 ]

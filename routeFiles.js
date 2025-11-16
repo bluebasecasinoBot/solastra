@@ -164,7 +164,7 @@ __SYD.launch_app_btn = () =>{
         {
             events:{
                 onclick:e =>{
-                    location.href = "agent_creation/creation.html"
+                    location.href = "https://solastra-util.vercel.app/"
                 }
             }
         }

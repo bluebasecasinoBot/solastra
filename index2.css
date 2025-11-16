@@ -192,7 +192,7 @@
     background: linear-gradient(90deg, #00FFA3, #03E1FF, #DC1FFF);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    letter-spacing: 1.5px;
+    /* letter-spacing: 1.5px; */
 }
 
 .three_d_orb_style_animation

@@ -31,7 +31,7 @@ __SYD.buyToken = () =>{
                             class:"text2"
                         },
                         [
-                            'Join us as we redefine the way people interact with and solastra AI. Welcome to the world of ' , __c("span",{style:"font-family:shine;" , class:"headerMainGrad spaceCharacters"},["SOLASTRA"]) , 'AI. Welcome to the future.',
+                            'Join Solastra today and empower your AI agents — experience the future of intelligent automation on Solana.',
                         ]
                     ),
                     __SYD.launch_app_btn()

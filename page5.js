@@ -12,7 +12,7 @@ __SYD.page5 = () =>{
             __c(
                 'div',
                 {
-                    style:`font-size:${__p(['subContainer','scaled'],false) ? '60px' : '35px'};text-transform:capitalize;font-weight:400;padding:5px;width:100%;color:#fff;text-align:center;text-shadow:3px 3px 0px #01283c;font-family:shine;`,
+                    style:`font-size:${__p(['subContainer','scaled'],false) ? '60px' : '35px'};text-transform:capitalize;font-weight:400;padding:5px;width:100%;color:#fff;text-align:center;font-family:shine;`,
                     class:'headerMainGrad'
                 },
                 [
@@ -52,7 +52,7 @@ __SYD.page5 = () =>{
                                     ),
                                     __c("li" , {style:""},["Launch of " , __c("span",{style:"font-family:shine;font-size:16px;" , class:"headerMainGrad spaceCharacters"},["SOLASTRA"]) , " AI token on Solana Chain."]),
                                     __c("li" , {style:""},["Platform ready for users to create and deploy their first AI agents."]),
-                                    __c("li" , {style:""},["Simple $1 payment model for each agent created."]),
+                                    __c("li" , {style:""},["No associated fees for creation of your agent"]),
                                     __c("li" , {style:""},["Initial user onboarding and feedback collection."])
                                 ]
                             ),

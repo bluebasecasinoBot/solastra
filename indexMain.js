@@ -55,9 +55,9 @@ __SYD.loaderScreen = () =>{
             ),
             __c(
                 "h1",
-                {style:"color:#fff;text-align:center;font-family:shine;text-shadow:2px 2px 1px #141414;position:relative;"},
+                {style:"color:#fff;text-align:center;font-family:shine;position:relative;"},
                 [
-                    __c("span" , {style:"background:linear-gradient(90deg, #00FFA3, #03E1FF, #DC1FFF);-webkit-background-clip: text;-webkit-text-fill-color: transparent;text-shadow: 2px 2px 3px rgba(230, 230, 230, 0.42), 0 0 5px rgba(230, 230, 230, 0.35);"},["Solastra AI "])
+                    __c("span" , {style:"background:linear-gradient(90deg, #00FFA3, #03E1FF, #DC1FFF);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"},["Solastra AI "])
                 ]
             ),
         ],

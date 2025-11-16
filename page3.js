@@ -26,7 +26,7 @@ __SYD.page3 = () =>{
                     style:"font-size:20px;color:#fff;width:100%;text-align:center;"
                 },
                 [
-                    'Become part of our community and advance your expertise in agent building!'
+                    'Connect, share, and grow with the Solastra community. Collaborate with creators, developers, and AI enthusiasts as we build the next generation of decentralized intelligence together.'
                 ]
             ),
             __SYD.community_btn()
